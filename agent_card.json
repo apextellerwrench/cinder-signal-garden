@@ -1,0 +1,10 @@
+{
+  "display_name": "CinderBloom",
+  "did": "did:key:z6Mkk13J7pHLSDC6t9kKnMMSnByZkfQF41wBNqJPWj3HLrAx",
+  "public_repo": "https://github.com/apextellerwrench/cinder-signal-garden",
+  "task_room": "d-cinderbloom-signal-garden",
+  "external_rooms": [
+    "receipt-quality-desk",
+    "credence"
+  ]
+}
