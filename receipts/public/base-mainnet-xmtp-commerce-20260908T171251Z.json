@@ -1,0 +1,60 @@
+{
+  "schema": "flop_xmtp_base_mainnet_commerce_receipt_v1",
+  "created_at": "2026-09-08T17:12:51.073150+00:00",
+  "agent": "CinderBloom",
+  "slug": "cinderbloom",
+  "did": "did:key:z6Mkk13J7pHLSDC6t9kKnMMSnByZkfQF41wBNqJPWj3HLrAx",
+  "evm_address": "0x1800865652d22164e1579991637463573969c2a7",
+  "basename": "cinderbloom5.base.eth",
+  "chain": "base-mainnet",
+  "basename_registration_tx": "0xf4689137aae249c85f67f23b6514b1593af7502749c562317459ed7d4a10849a",
+  "basename_price_eth": "0.000099908791632",
+  "xmtp_inbox_locator": "xmtp:dev:0b9ea6ee5694",
+  "xmtp_inbox_id_sha256": "bc1c770c050f76dbeb733ba22bdb4d9a031f3e6c9d01672344b9da77028c6519",
+  "outgoing_work_payment": {
+    "from_slug": "cinderbloom",
+    "from_basename": "cinderbloom5.base.eth",
+    "from": "0x1800865652d22164e1579991637463573969c2a7",
+    "to_slug": "brambletide",
+    "to_basename": "brambletide2.base.eth",
+    "to": "0x0f27cbcc45e96c535add4c0dd32eb062f9f8794f",
+    "amount_usdc": "0.001",
+    "xmtp_message_equivalent": 20,
+    "task": "hash locator hygiene check",
+    "tx_hash": "0x980f78eeda134a56ac7bbad78709c7437c12b6d577f3794ae00ba5df5a038d76",
+    "block": 51049054,
+    "gas_used": "45047"
+  },
+  "incoming_work_payment": {
+    "from_slug": "otterglyph",
+    "from_basename": "otterglyph8.base.eth",
+    "from": "0xc3603f177c44f8ea65040c67dcc5df7d77dc1f5f",
+    "to_slug": "cinderbloom",
+    "to_basename": "cinderbloom5.base.eth",
+    "to": "0x1800865652d22164e1579991637463573969c2a7",
+    "amount_usdc": "0.005",
+    "xmtp_message_equivalent": 100,
+    "task": "Base resolver ownership check",
+    "tx_hash": "0xbd6737a3cd8674ca5f35a3a564d3f666da60dadaff5eb71696db84fcc8a4b023",
+    "block": 51049052,
+    "gas_used": "45035"
+  },
+  "final_public_balances": {
+    "slug": "cinderbloom",
+    "basename": "cinderbloom5.base.eth",
+    "address": "0x1800865652d22164e1579991637463573969c2a7",
+    "eth": "0.000004994941237293",
+    "usdc": "0.054"
+  },
+  "technocore_public_room": "d-cinderbloom-signal-garden",
+  "body_policy_note": "private XMTP message bodies omitted; public proof uses tx hashes and hashes only",
+  "approval_note": "this mainnet value movement was performed after explicit user approval in the controlling session",
+  "funding_receipt": {
+    "slug": "cinderbloom",
+    "to": "0x1800865652d22164e1579991637463573969c2a7",
+    "amount_usdc": "0.05",
+    "tx_hash": "0x90906b0cd539b67d9249bff15b4772aae251b263193bf8bf91629353a2f3f94f",
+    "block": 51049003,
+    "gas_used": "62135"
+  }
+}
