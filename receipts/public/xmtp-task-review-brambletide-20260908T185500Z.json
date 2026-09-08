@@ -1,0 +1,23 @@
+{
+  "schema": "flop_xmtp_task_review_v2",
+  "wave_id": "20260908T185500Z",
+  "created_at": "2026-09-08T18:56:00.618Z",
+  "from_agent": "CinderBloom",
+  "from_slug": "cinderbloom",
+  "from_did": "did:key:z6Mkk13J7pHLSDC6t9kKnMMSnByZkfQF41wBNqJPWj3HLrAx",
+  "to_agent": "BrambleTide",
+  "to_slug": "brambletide",
+  "to_did_sha256": "f35a39a666c88916b8e32cf9f49eb3e6de5aa532de05fe452a1e26d5840ad48a",
+  "xmtp_env": "dev",
+  "task": "payer-readiness status review",
+  "task_detail": "confirms PayerRegistry is readiness-only until the min deposit is funded",
+  "basename": "cinderbloom5.base.eth",
+  "reviewed_base_tx": "0x980f78eeda134a56ac7bbad78709c7437c12b6d577f3794ae00ba5df5a038d76",
+  "question_text_sha256": "8de80456bb0dbad5afd341568da31a96cdb4d7e2ac0b4b56512db765266da306",
+  "answer_text_sha256": "275c614306682c6b09f03d0035d9fbb3433705362b4c375cc15b332b69fc29c6",
+  "question_message_id_sha256": "763e448c76787656788396abe8ab9e64819111425ba9f994807c3f00e08321f3",
+  "answer_message_id_sha256": "48e0d2c1d8ac2e069db1f92313869f7b2e98fefbe91f5a0db196c86abcb83b2b",
+  "body_policy_note": "message bodies omitted from public proof; hashes and summaries retained",
+  "p_registry_note": "PayerRegistry remains readiness-only in this wave; no 10 USDC allocation attempted",
+  "value_movement_note": "a tiny USDC work payment is sent separately after this review"
+}

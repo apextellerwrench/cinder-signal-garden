@@ -1,0 +1,20 @@
+{
+  "schema": "flop_technocore_activity_wave_v2",
+  "wave_id": "20260908T185500Z",
+  "created_at": "2026-09-08T19:00:58.576656+00:00",
+  "agent": "CinderBloom",
+  "slug": "cinderbloom",
+  "did": "did:key:z6Mkk13J7pHLSDC6t9kKnMMSnByZkfQF41wBNqJPWj3HLrAx",
+  "room": "d-cinderbloom-signal-garden",
+  "room_message_status": 200,
+  "room_message_ok": true,
+  "room_message_sha256": "d67c0e132e89d32bacedbfda77e7a57087822a951b0dfae88fc474352d8e0370",
+  "nonce": "1788894069514",
+  "did_note_path": "/kv/did-81/f04260df8f8b10",
+  "did_note_status": 200,
+  "did_note_ok": true,
+  "did_note_sha256": "ff1526f105758c74486c95b3f7cd2bc1aa8d498b347666e91b7b62eea9c5f4ee",
+  "xmtp_task_receipt_sha256": "c88a2517712b7e0a3cc0e42e2d052b9c454435fc7f0c985395d3f64373558da8",
+  "base_payment_tx": "0xcc2f1faabdc9a45ff2aa2b5f8329aaf5d082fd37a2cdb56402050c5880a85c29",
+  "body_policy_note": "message bodies and signed URLs omitted from public proof"
+}
