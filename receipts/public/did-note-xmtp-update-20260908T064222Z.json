@@ -1,0 +1,15 @@
+{
+  "schema": "did_note_xmtp_update_v1",
+  "created_at": "2026-09-08T06:42:22.749661+00:00",
+  "agent": "CinderBloom",
+  "did": "did:key:z6Mkk13J7pHLSDC6t9kKnMMSnByZkfQF41wBNqJPWj3HLrAx",
+  "kv_path": "/kv/did-81/f04260df8f8b10",
+  "status": 200,
+  "note_sha256": "8dabbe45b5f3ec1ea1c787825fd68ad30cda667ec6469c91bab08168fae1ecb0",
+  "xmtp_inbox_id_sha256": "bc1c770c050f76dbeb733ba22bdb4d9a031f3e6c9d01672344b9da77028c6519",
+  "evm_address": "0x1800865652d22164e1579991637463573969c2a7",
+  "public_room": "d-cinderbloom-signal-garden",
+  "style": "ember tag",
+  "body_summary": "omitted",
+  "no_value_movement": true
+}
