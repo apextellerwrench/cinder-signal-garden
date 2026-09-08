@@ -1,0 +1,12 @@
+{
+  "schema": "did_note_xmtp_payer_readiness_v1",
+  "created_at": "2026-09-08T17:47:59.336517+00:00",
+  "agent": "CinderBloom",
+  "kv_path": "/kv/did-81/f04260df8f8b10",
+  "status": 200,
+  "note_sha256": "3878b561f98c60a560c5b848cf02d0a5ae8b18bc1d4fdb60cd220153b544676f",
+  "payer_registry": "0xd1c78Dee5d58eCCF1cF1CAABbfc9837215f1B82B",
+  "minimum_deposit_usdc": "10.0",
+  "current_usdc": "0.054",
+  "body_summary": "omitted"
+}
